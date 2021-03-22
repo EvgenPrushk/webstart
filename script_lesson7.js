@@ -63,21 +63,21 @@
 //     },
 
 // }
-// car.driver.car = car; // зацикливание объекта на себя
+// // car.driver.car = car; // зацикливание объекта на себя
 
-// Присовоение переменной и синтаксический сахар
+// // Присовоение переменной и синтаксический сахар
 
-let name = "Evgen";
-let surname = "prushak";
-let age = 22;
-let gender = "male";
+// let name = "Evgen";
+// let surname = "prushak";
+// let age = 22;
+// let gender = "male";
 
-const user = {
-    // имя и имся поля совпадает, тогда можно опустить : 
-    name,
-    surname,
-    age,
-    gender,
-}
-// ключ это страка и справа
-user['name'] //Evgen
+// const user = {
+//     // имя и имся поля совпадает, тогда можно опустить : 
+//     name,
+//     surname,
+//     age,
+//     gender,
+// }
+// // ключ это страка и справа
+// user['name'] //Evgen
