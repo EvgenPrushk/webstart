@@ -77,5 +77,26 @@
 // const v = x(n);
 // console.log(n, v);
 
+// КАК ОБЪЯВЛЯЕТСЯ ФУНКЦИЯ, ВСПЛЫТИЕ
+// const n = 15;
+// const v = isSimple(n);
+// console.log(n, v);
+// function isSimple(n, a, b, ...args) {
+//   console.log("Старт цикла");
+//   for (let i = 2; i < n; i++) {
+//     console.log({ i });
+//     if (n % i === 0) {
+//       // после ретерна функция прекращается
+//       return false;
+//     }
+//   }
+//   console.log("Финиш цикла");
 
-// КАК ОБЪЯВЛЯЕТСЯ ФУНКЦИЯ
+//   return true;
+// }
+
+// Вызов функции после ее обьявления
+(function IIFE(a, b, c) {
+  console.log(a, b, c);
+})(1, 2, 3);
+//23-08
