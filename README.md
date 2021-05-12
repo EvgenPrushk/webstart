@@ -35,26 +35,69 @@
 - Спецзначения
 - Конвертация
 
-[Ссылка на урок в youtube №4]()
+[Ссылка на урок в youtube №4](https://www.youtube.com/watch?v=D94_ltt8ulM&list=PL9mlH9etz6DyLE5_oFSdbzKnsRB_Wq2_I&index=4)
 
-[Ссылка на урок в youtube №5. Элемент и входные параметры](https://www.youtube.com/watch?v=YN2WdqsAh6c&list=PL9mlH9etz6DyxCwks1tdVzlYhSxrsrjJ4&index=5)
+- Условный оператор
+- Ветки
+- Switch
+- Тернарный оператор
+- Условие
+- Модальные окна
+- Программа: Значение имени
+- Программа: Приветствие
+- Программа: Калькулятор
 
-[Ссылка на урок в youtube №6. Компонент и состояние](https://www.youtube.com/watch?v=R_U59lNAyUk&list=PL9mlH9etz6DyxCwks1tdVzlYhSxrsrjJ4&index=6)
+[Ссылка на урок в youtube №5](https://www.youtube.com/watch?v=Q6mOvR3AXmk&list=PL9mlH9etz6DyLE5_oFSdbzKnsRB_Wq2_I&index=5)
 
-[Ссылка на урок в youtube №7. Жизненный цикл компонента](https://www.youtube.com/watch?v=CHFD45QYtI8&list=PL9mlH9etz6DyxCwks1tdVzlYhSxrsrjJ4&index=7)
+- Цикл for
+- Настройка цикла
+- Цикл в цикле
+- Поиск простых чисел
+- Таблица умножения
+- Тройной цикл
+- Повторения числа
+- Управление итерацией
+- Прощание
 
-В этом уроке разберем методы жизненного цикла в классовых компонентах. Посмотрим на схему методов жизненного цикла и попробуем разобраться когда и какие методы следует использоваться.
+[Ссылка на урок в youtube №6](https://www.youtube.com/watch?v=ktU_0ThU65U&list=PL9mlH9etz6DyLE5_oFSdbzKnsRB_Wq2_I&index=6)
 
-[Ссылка на урок в youtube №8. Обработка событий](https://www.youtube.com/watch?v=yzxE3M_xx3w&list=PL9mlH9etz6DyxCwks1tdVzlYhSxrsrjJ4&index=8)
+- Цикл while
+- Пример: число по цифрам
+- Цикл do-while
+- Взаимозаменяемость
+- Итерация
+- Работа над ошибками
 
-В этом уроке изучите вопрос прослушивания стандартных событий JavaScript в React компонентах. Обработка событий на React не сильно отличается от прослушки событий в нативном JavaScript, но способ навешивания обработчика и политика наименования немножко отличаются.
+[Ссылка на урок в youtube №7](https://www.youtube.com/watch?v=VuVfokfmIPs&list=PL9mlH9etz6DyLE5_oFSdbzKnsRB_Wq2_I&index=7)
 
-[Ссылка на урок в youtube №9. Пользовательские события](https://www.youtube.com/watch?v=t6DMxrMvhLo&list=PL9mlH9etz6DyxCwks1tdVzlYhSxrsrjJ4&index=9)
+- Объект
+- Динамика объекта
+- Ссылочная природа
+- Пример и замыкание
 
-Кроме стандартных событий мы можем пользоваться своими событиями. Пользовательские события - это мощный и удобный способ взаимодействия нескольких компонентов с общим родительским компонентов, и взаимодействия компонента с его родительским компонентом.
+[Ссылка на урок в youtube №8](https://www.youtube.com/watch?v=Ftt1F_rxu6k&list=PL9mlH9etz6DyLE5_oFSdbzKnsRB_Wq2_I&index=8)
 
-[Ссылка на урок в youtube №10. Условный рендринг](https://www.youtube.com/watch?v=hzB0CvJANn8&list=PL9mlH9etz6DyxCwks1tdVzlYhSxrsrjJ4&index=10)
+- Массив
+- Динамика
+- Перебор массива
+- Примеры
 
-В этом уроке посмотрим на способы сокрытия компонента, условного и множественного рендринга компонента. JSX - мощный инструмент, позволяющий на лету генерировать визуальную часть компонента из кусочков. К тому же тернарный оператор может упросить сборку, но обо всем на уроке )
+[Ссылка на урок в youtube №9](https://www.youtube.com/watch?v=cRHIfKBSbEg&list=PL9mlH9etz6DyLE5_oFSdbzKnsRB_Wq2_I&index=9)
 
-[Ссылка на урок в youtube №11. Рендринг списка](https://www.youtube.com/watch?v=Sgp8Wv5o_68&list=PL9mlH9etz6DyxCwks1tdVzlYhSxrsrjJ4&index=11)
+- Функция
+- Основные приемы
+- Контекст
+- Стрелочная функция
+
+[Ссылка на урок в youtube №10](https://www.youtube.com/watch?v=xdxSOHo9sUA&list=PL9mlH9etz6DyLE5_oFSdbzKnsRB_Wq2_I&index=10)
+
+- Отладчик
+- Область видимости
+
+[Ссылка на урок в youtube №11](https://www.youtube.com/watch?v=7PHLuIdiOaI&list=PL9mlH9etz6DyLE5_oFSdbzKnsRB_Wq2_I&index=11)
+
+- Чистая функция
+- Рекурсия
+- Функция высшего порядка
+- Методы
+- Lodash
