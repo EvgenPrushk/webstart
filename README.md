@@ -101,3 +101,16 @@
 - Функция высшего порядка
 - Методы
 - Lodash
+
+[Ссылка на урок в youtube №12](https://www.youtube.com/watch?v=j0GcTWIgytQ&list=PL9mlH9etz6DyLE5_oFSdbzKnsRB_Wq2_I&index=12)
+
+- DOM
+- Свойства
+- Отношения
+- Контент
+
+[Ссылка на урок в youtube №13](https://www.youtube.com/watch?v=gGxHcVzr0XE&list=PL9mlH9etz6DyLE5_oFSdbzKnsRB_Wq2_I&index=13)
+
+- Поиск элементов
+- Real DOM
+- Virtual DOM
