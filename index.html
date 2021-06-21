@@ -1,20 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
     <title>Document</title>
-</head>
-<body>
-  <input type="text">
-  <button>Кликне по мне</button>
-  <!-- <script src="script_lesson5.js"></script>   -->
-  <!-- <script src="script_lesson6.js"></script> -->
-  <!-- <script src="script_lesson7.js"></script>
-  <script src="script_lesson8.js"></script> -->
-  <!-- <script src="script_lesson9.js"></script> -->
-  <!-- <script src="script_lesson10.js"></script> -->
-  <script src="script_lesson11.js"></script>
-</body>
+  </head>
+  <body>
+    <!-- $0.dataset.color=> red -->
+    <input type="text" data-color="red" />
+    <!--Комментарий -->
+    <!-- $0.classList.add or remove or toggle or contains o -->
+    <!-- $0.className -->
+    <span id="Id_current"> Текст</span>
+    <!-- $0.hasAttribute('id')   => false $0.setAttribute('color', 'green') => color="green" -->
+    <ul class="primary list">
+      <!--  $0.children[0-2] or  $0.childNodes[1-7] or  $0.firstElementChild or  
+      $0.lastElementChild or $0.firstChild or $0.lastChild or $0.parentElement or $0.parentNode  -->
+      <!--  $0.previousSibling
+       -->
+       
+      <li><span>123</span></li>
+      <li><p>Параграф</p></li>
+      <li>
+        <ol>
+<!--  $0.innerHTML    or $0.outerHTML  or $0.inerText or  $0.outerText or $0.textContent   -->
+          <li>React</li>
+          <li>Vue</li>
+          <li>Angular</li>
+        </ol>
+      </li>
+    </ul>
+
+    <script src="script_lesson12.js"></script>
+  </body>
 </html>
