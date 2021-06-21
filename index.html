@@ -7,31 +7,17 @@
     <title>Document</title>
   </head>
   <body>
-    <!-- $0.dataset.color=> red -->
-    <input type="text" data-color="red" />
-    <!--Комментарий -->
-    <!-- $0.classList.add or remove or toggle or contains o -->
-    <!-- $0.className -->
-    <span id="Id_current"> Текст</span>
-    <!-- $0.hasAttribute('id')   => false $0.setAttribute('color', 'green') => color="green" -->
-    <ul class="primary list">
-      <!--  $0.children[0-2] or  $0.childNodes[1-7] or  $0.firstElementChild or  
-      $0.lastElementChild or $0.firstChild or $0.lastChild or $0.parentElement or $0.parentNode  -->
-      <!--  $0.previousSibling
-       -->
-       
-      <li><span>123</span></li>
-      <li><p>Параграф</p></li>
-      <li>
-        <ol>
-<!--  $0.innerHTML    or $0.outerHTML  or $0.inerText or  $0.outerText or $0.textContent   -->
-          <li>React</li>
-          <li>Vue</li>
-          <li>Angular</li>
-        </ol>
-      </li>
+    <ul data-type="fruites">
+      <li id="apple">Яблоки</li>
+      <li>Апельсин</li>
+      <li>Виноград</li>
+    </ul>
+    <ul data-type="names">
+      <li id="aleksey">Aleks</li>
+      <li>Sergei</li>
+      <li id="lastName">Dmitro</li>
     </ul>
 
-    <script src="script_lesson12.js"></script>
+    <script src="script_lesson13.js"></script>
   </body>
 </html>
